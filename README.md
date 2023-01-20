@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Szymon Kędra 👋
 
-<!--
-**FrontendKedra/FrontendKedra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a "developing" frontender in love with React, 
+   very eager to learn something new every day.
 
-Here are some ideas to get you started:
+- 🌎 I live in Kraków, Poland
+- 🌱 I’m currently learning typescript, soon to start learning react query
+- 🤔 I’m looking for learning/job oppurtunities
+- ⚡ Fun fact: as a kid I wanted to be a pope
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills I already acquired
+JavaScript HTML5 CSS3 Styled Components React Redux Markdown
+Git 
