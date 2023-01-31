@@ -12,6 +12,7 @@
 
 ## Some of the skills I already acquired
 ![Javascript](https://img.shields.io/badge/JavaScript-ffeb3b?style=flat&logo=javascript&logoColor=000000&labelColor=ffeb3b)
+![Typescript](https://img.shields.io/badge/TypeScript-2196f3?style=flat&logo=typescript&logoColor=ffffff&labelColor=2196f3)
 ![HTML](https://img.shields.io/badge/HTML-ff5722?style=flat&logo=html5&logoColor=ffffff&labelColor=ff5722)
 ![CSS](https://img.shields.io/badge/CSS-3f51b5?style=flat&logo=css3&logoColor=ffffff&labelColor=3f51b5)
 ![React](https://img.shields.io/badge/React-00bcd4?style=flat&logo=react&logoColor=ffffff&labelColor=00bcd4)
