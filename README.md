@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 
 ## I'm a "developing" frontender in love with React
-####  Very eager to learn something new every day
+##  Very eager to learn something new every day
 
 - 🌎 I live in Kraków, Poland
 - 🌱 I’m currently mastering typescript, soon to start learning react query
