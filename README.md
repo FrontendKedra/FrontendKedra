@@ -6,7 +6,6 @@
 ##  Very eager to learn something new every day
 
 - 🌎 I live in Kraków, Poland
-- 🌱 I’m currently mastering typescript, soon to start learning react query
 - 🤔 I’m looking for learning/job oppurtunities
 - ⚡ Fun fact: as a kid I wanted to be a pope
 
